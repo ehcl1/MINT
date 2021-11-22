@@ -5,7 +5,7 @@
     <style>
       a{
         text-decoration:none;
-        color: red
+        color: red;
       }
       body{
         text-align: right:
@@ -18,7 +18,7 @@
       }
       h4{
         font-size:5px;
-        color: blue
+        color: blue;
       }
     </style>
   </head>
