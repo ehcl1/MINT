@@ -8,7 +8,7 @@
       }
       a{
         text-decoration:none;
-        color: sky blue;
+        color: sky-blue;
       }
       body{
         text-align:center;
