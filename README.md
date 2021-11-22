@@ -5,6 +5,7 @@
     <style>
       a{
         text-decoration:none;
+        color:red;
       }
       body{
         text-align: center;
