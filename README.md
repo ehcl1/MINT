@@ -1,9 +1,9 @@
-
+#WEB
 <html>
   <head>
     <title>박경훈</title>
     <meta charset="utf-8">
-    <style media="screen">
+    <style>
       a{
         text-decoration:none;
         color: red
