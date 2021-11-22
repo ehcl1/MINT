@@ -8,7 +8,7 @@
         color: red;
       }
       body{
-        text-align: right:
+        text-align: center;
       }
       h2{
         font-size:60px;
