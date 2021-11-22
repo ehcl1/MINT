@@ -5,10 +5,10 @@
     <style>
       a{
         text-decoration:none;
-        color:red;
+        color: red;
       }
       body{
-        text-align: center;
+        text-align:center;
       }
       h2{
         font-size:60px;
