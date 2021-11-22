@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>박경훈</title>
+    <title>민초는 맛있다!</title>
     <meta charset="utf-8">
     <style>
       h1{
