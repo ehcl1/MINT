@@ -1,4 +1,4 @@
-# WEB1
+# 박경훈
 <html>
   <head>
     <title>박경훈</title>
@@ -18,7 +18,7 @@
         font-size:30px;
       }
       h4{
-        font-size:0.1px;
+        font-size:1px;
       }
     </style>
   </head>
