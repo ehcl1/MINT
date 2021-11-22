@@ -3,6 +3,9 @@
     <title>박경훈</title>
     <meta charset="utf-8">
     <style>
+      h1{
+        color:black;
+      }
       a{
         text-decoration:none;
         color: red;
