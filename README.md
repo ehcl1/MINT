@@ -1,13 +1,13 @@
 <html>
   <head>
-    <title>민초는 맛있다!</title>
+    <title>1-5</title>
     <meta charset="utf-8">
     <style>
       h1{
         color:black;
       }
       .qt{
-       color:black
+       color:black;
       }
       a{
         text-decoration:none;
