@@ -7,7 +7,7 @@
         color:black;
       }
       .qt{
-       color:red;
+       color:black
       }
       a{
         text-decoration:none;
