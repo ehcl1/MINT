@@ -81,6 +81,6 @@
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p><center><h4>민초는 맛있다</h4></center></p>
-    <p>오유빈*문태영</p>
+    <p><center>오유빈*문태영</center></p>
   </body>
 </html>
