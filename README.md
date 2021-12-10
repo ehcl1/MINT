@@ -34,8 +34,6 @@
   </head>
   <body>
    <p><center><h2 class=qt>1-5<a href="https://ko.dict.naver.com/#/entry/koko/909fa2a4a8e24279a3e328829e7b5864" target="_blank"></a></h2></center></p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
   <p><center><h3 class=qt>싸부님 사랑해요!</h3></center></p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
@@ -83,6 +81,6 @@
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p><center><h4>민초는 맛있다</h4></center></p>
-    <p class=1-5>오유빈 병신</p>
+    <p class=1-5>오유빈*문태영</p>
   </body>
 </html>
