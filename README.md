@@ -117,7 +117,7 @@
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p>우리반 공식 ㅋㅍ</p>
-    <p><center>오유빈*문태영</center></p>
-  <p><center>이지아*박경훈</center></p>
+    <p><center>오유빈❤문태영</center></p>
+  <p><center>이지아❤박경훈</center></p>
   </body>
 </html>
