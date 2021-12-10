@@ -26,6 +26,10 @@
         font-size:5px;
         color:blue;
       }
+      .1-5{
+      font-size:25px;
+      color:red;
+      }
     </style>
   </head>
   <body>
@@ -33,7 +37,18 @@
     <p>&nbsp;</p>
     <p>&nbsp;</p>
   <p><center><h3 class=qt>싸부님 사랑해요!</h3></center></p>
-    <p>오유빈 병신</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>  
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
@@ -56,6 +71,7 @@
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
+    <p>&nbsp;</p>  
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
@@ -67,5 +83,6 @@
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p><center><h4>민초는 맛있다</h4></center></p>
+    <p class=1-5>오유빈 병신</p>
   </body>
 </html>
