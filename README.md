@@ -32,7 +32,7 @@
    <p><center><h2 class=qt>오유빈<a href="https://ko.dict.naver.com/#/entry/koko/909fa2a4a8e24279a3e328829e7b5864" target="_blank">ㅂㅅ</a></h2></center></p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
-  <p><center><h3>사람이 아닌 ㅇㅇㅂ</h3></center></p>
+  <p><center><h3>사람이 아닌 </h3></center></p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
