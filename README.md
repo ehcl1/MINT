@@ -33,7 +33,7 @@
     <p>&nbsp;</p>
     <p>&nbsp;</p>
   <p><center><h3 class=qt>싸부님 사랑해요!</h3></center></p>
-    <p>오유빈 병신</
+    <p>오유빈 병신</p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
